@@ -1,2 +1,2 @@
-# Prafulla-ma-am-s-project
+# Damage Detection and its severity
 Something.
